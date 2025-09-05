@@ -1,0 +1,67 @@
+[
+  {
+    "full_name": "Ahmed Al-Rashid",
+    "emirates_id": "784-1985-1234567-8",
+    "phone_number": "+971501234567",
+    "email": "ahmed.rashid@email.com",
+    "date_of_birth": "1985-03-15",
+    "monthly_income": 2500.0,
+    "family_size": 4,
+    "dependents": 2,
+    "monthly_expenses": 2200.0,
+    "application_date": "2024-01-15",
+    "documents": ["emirates_id", "bank_statement", "income_certificate"]
+  },
+  {
+    "full_name": "Fatima Al-Zahra",
+    "emirates_id": "784-1990-2345678-9",
+    "phone_number": "+971502345678",
+    "email": "fatima.zahra@email.com",
+    "date_of_birth": "1990-07-22",
+    "monthly_income": 1800.0,
+    "family_size": 3,
+    "dependents": 1,
+    "monthly_expenses": 1900.0,
+    "application_date": "2024-01-16",
+    "documents": ["emirates_id", "bank_statement", "asset_list"]
+  },
+  {
+    "full_name": "Mohammed Al-Hassan",
+    "emirates_id": "784-1988-3456789-0",
+    "phone_number": "+971503456789",
+    "email": "mohammed.hassan@email.com",
+    "date_of_birth": "1988-11-08",
+    "monthly_income": 4500.0,
+    "family_size": 2,
+    "dependents": 0,
+    "monthly_expenses": 3000.0,
+    "application_date": "2024-01-17",
+    "documents": ["emirates_id", "bank_statement", "income_certificate"]
+  },
+  {
+    "full_name": "Aisha Al-Mansouri",
+    "emirates_id": "784-1992-4567890-1",
+    "phone_number": "+971504567890",
+    "email": "aisha.mansouri@email.com",
+    "date_of_birth": "1992-05-12",
+    "monthly_income": 1200.0,
+    "family_size": 5,
+    "dependents": 3,
+    "monthly_expenses": 1500.0,
+    "application_date": "2024-01-18",
+    "documents": ["emirates_id", "bank_statement", "income_certificate", "asset_list"]
+  },
+  {
+    "full_name": "Omar Al-Khalil",
+    "emirates_id": "784-1987-5678901-2",
+    "phone_number": "+971505678901",
+    "email": "omar.khalil@email.com",
+    "date_of_birth": "1987-09-30",
+    "monthly_income": 3200.0,
+    "family_size": 6,
+    "dependents": 4,
+    "monthly_expenses": 3500.0,
+    "application_date": "2024-01-19",
+    "documents": ["emirates_id", "bank_statement", "income_certificate"]
+  }
+]
